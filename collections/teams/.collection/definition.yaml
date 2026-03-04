@@ -1,0 +1,13 @@
+record_file:
+  name: "{key}.yaml"
+  type: "map[string]any"
+  format: yaml
+columns:
+  "$ID":
+    type: string
+    primaryKey: true
+  title:
+    type: string
+columns_order:
+  - "$ID"
+  - title
