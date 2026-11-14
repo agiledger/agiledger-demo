@@ -1,6 +1,7 @@
 titles:
   en: Team Mates
 record_file:
+  records_dir: "."
   name: "{key}.json"
   type: "map[string]any"
   format: json

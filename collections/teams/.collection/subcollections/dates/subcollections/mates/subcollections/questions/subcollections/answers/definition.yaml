@@ -1,6 +1,7 @@
 titles:
   en: Answers
 record_file:
+  records_dir: "."
   name: "{key}.json"
   type: "map[string]any"
   format: json

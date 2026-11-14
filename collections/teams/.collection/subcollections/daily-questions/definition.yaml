@@ -1,6 +1,7 @@
 titles:
   en: Daily Questions
 record_file:
+  records_dir: "."
   name: "daily-questions.json"
   type: "map[string]any"
   format: json
