@@ -1,6 +1,7 @@
 titles:
   en: Dates
 record_file:
+  records_dir: "."
   name: "{key}/{key}.json"
   type: "map[string]any"
   format: json
